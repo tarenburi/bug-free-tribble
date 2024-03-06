@@ -1,0 +1,26 @@
+{
+  "name": "bug-free-tribble",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tarenburi/bug-free-tribble.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarenburi/bug-free-tribble/issues"
+  },
+  "homepage": "https://github.com/tarenburi/bug-free-tribble#readme",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "weather-app-urban-waffle": "^1.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
